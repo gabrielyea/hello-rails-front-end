@@ -11,39 +11,21 @@ To get a local copy up and running follow these simple steps:
 **First Steps**
 
 1. Clone it using git command:
-```ruby
-git clone git@github.com:gabrielyea/hello-rails-back-end.git
+```js
+git clone git@github.com:gabrielyea/hello-rails-front-end.git
 ```
 
 **Run in development (locally)**
 
-1. Install gem files and dependencies:
-```ruby
-bundle install
-```
-```ruby
+1. Install dependencies:
+```js
 yarn install
 ```
-2. Setup data base
-```ruby
-rails db:setup
-
-rails db:migrate
-
-rails db:seed
+2. Run app
+```js
+npm start
 ```
 
-3. Run server
-```ruby
-rails server
-```
-
-## Troubleshooting
-
-If you encounter any issues with webpacker, try to run 
-```ruby
-bundle exec rake webpacker:install
-```
 
 ## Authors
 

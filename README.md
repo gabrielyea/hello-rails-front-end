@@ -1,10 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-# Hello rails back end! 
-Simple app that generates random messages on API endpoint
+# Hello rails front end! 
+Simple app that displays data from rails API endpoint
 
 ##  Built With :hammer:
 
-- Ruby on Rails
+- React
 
 To get a local copy up and running follow these simple steps:
 
